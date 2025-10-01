@@ -1,4 +1,4 @@
-````markdown
+
 # 📊 Financial Analyzer – Fund Screener Intern Project
 
 A **production-grade financial analysis pipeline** built as part of the Fund-Screener Intern Screening Project.  
