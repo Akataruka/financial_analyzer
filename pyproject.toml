@@ -1,0 +1,24 @@
+[project]
+name = "financial-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.3.2",
+    "pydantic>=2.11.9",
+    "pyyaml>=6.0.3",
+    "sqlalchemy>=2.0.43",
+    "typer[all]>=0.19.2",
+    "yfinance>=0.2.66",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+    "ruff>=0.13.2",
+]
+
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

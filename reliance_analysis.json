@@ -1,0 +1,58 @@
+{
+  "ticker": "RELIANCE.NS",
+  "generated_at": "2025-10-01T06:34:18.489248",
+  "price_rows_count": 1239,
+  "fundamentals_used": "quarterly_balance_sheet",
+  "signals": [
+    {
+      "date": "2021-03-22",
+      "signal_type": "golden_cross",
+      "meta": {}
+    },
+    {
+      "date": "2021-06-18",
+      "signal_type": "golden_cross",
+      "meta": {}
+    },
+    {
+      "date": "2022-12-13",
+      "signal_type": "golden_cross",
+      "meta": {}
+    },
+    {
+      "date": "2023-06-26",
+      "signal_type": "golden_cross",
+      "meta": {}
+    },
+    {
+      "date": "2025-05-29",
+      "signal_type": "golden_cross",
+      "meta": {}
+    },
+    {
+      "date": "2020-12-14",
+      "signal_type": "death_cross",
+      "meta": {}
+    },
+    {
+      "date": "2021-05-14",
+      "signal_type": "death_cross",
+      "meta": {}
+    },
+    {
+      "date": "2022-10-24",
+      "signal_type": "death_cross",
+      "meta": {}
+    },
+    {
+      "date": "2023-02-02",
+      "signal_type": "death_cross",
+      "meta": {}
+    },
+    {
+      "date": "2024-10-22",
+      "signal_type": "death_cross",
+      "meta": {}
+    }
+  ]
+}

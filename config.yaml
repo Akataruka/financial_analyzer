@@ -1,0 +1,10 @@
+# config.yaml.example
+database:
+  path: "financial_data.db"
+
+logging:
+  level: "INFO"
+
+data_settings:
+  historical_period: "5y"
+  min_trading_days_for_sma: 200
